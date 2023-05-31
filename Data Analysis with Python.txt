@@ -1,0 +1,61 @@
+Data Analysis with Python
+=========================
+
+  May 30 to June 1
+
+     Toby Dussek
+
+ 9:30 start
+11:00 break
+12:30 lunch until 1:30
+ 3:00 break
+ 4:30 end
+
+course code repositiory: 
+    https://github.com/onionmccabbage/DataAnalysisWithPythonMay2023
+
+Tuesday
+> Welcome: what you know, what you would like to know
+> and tech check
+  - easist to just install Anaconda 
+  - or install Python and the separate tools (Jupyter, Numpy, Pandas etc.)
+> Python and related tools for Data Analysis
+- Python introduction
+> Numpy: arrays and slicing
+> Anaconda - adding libraries
+> Pandas: series and dataframe
+  > import csv and xls (choose which sheet, parse dates)
+  > using dates (and slicing)
+  > non-numeric indexing
+  > combining data
+> basics of statistics
+> using 'fillna' for missing data (cleaning our data)
+> MatplotLib
+  - also seaborn and color palette 
+    see https://seaborn.pydata.org/tutorial/color_palettes.html#palette-tutorial
+> review exercise
+
+Wednesday
+> brief review so far
+> axis and inplace
+> data cleaning: more subtle use of techniques
+> more about Python: functions and indentation syntax
+> Sorting and ranking data
+> group and aggregating
+> charts: managing, combining and implementing colours ( for a large data set )
+> working with large data (large data or big data ?)
+> numercial data and stats: descriptive statistics
+> review exercise
+> other ways to run Python: modules, jupyter notebook and IDE
+- provide sample notebooks with more details
+
+Thursday
+- brief review so far
+- see the fixed 'figure' example
+- Data strategies
+- time-series data and stats
+- Statistical analysis
+- grouping and aggregation
+- Database integration (also text files)
+- review exercise
+- end of course fedback
