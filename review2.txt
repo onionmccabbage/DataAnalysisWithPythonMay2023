@@ -1,0 +1,39 @@
+<<<<<<< HEAD
+Second Review exercise (until 3:00)
+======================
+put 'flights_jan.csv' in the 'data' folder
+in a new workbook, import the usual, then make a DataFrame from 'flights_jan.csv'
+
+Spend 50 mins (to tea break) (optionally use breakout rooms)
+
+Challenges
+- use 'describe' to get top-level stats
+- briefly review the data...
+- try df.columns (see the column names)
+- try df.dtypes (see the column data types)
+- Group by 'AIRLINE'
+- find the mean DEPATURE_DELAY (also min and max)
+- aggregate the min, mean and max DEPATURE_DELAY
+- How could you identify the number of unique airlines?
+- ... and how many unique aircraft? (TAIL_NUMBER)
+- What was the longest departure delay? (interpret how you like)
+=======
+Second Review exercise (until 3:00)
+======================
+put 'flights_jan.csv' in the 'data' folder
+in a new workbook, import the usual, then make a DataFrame from 'flights_jan.csv'
+
+Spend 50 mins (to tea break) (optionally use breakout rooms)
+
+Challenges
+- use 'describe' to get top-level stats
+- briefly review the data...
+- try df.columns (see the column names)
+- try df.dtypes (see the column data types)
+- Group by 'AIRLINE'
+- find the mean DEPATURE_DELAY (also min and max)
+- aggregate the min, mean and max DEPATURE_DELAY
+- How could you identify the number of unique airlines?
+- ... and how many unique aircraft? (TAIL_NUMBER)
+- What was the longest departure delay? (interpret how you like)
+>>>>>>> 05889901b889b345ab0161fe0d04afa64ea7fdad
