@@ -42,3 +42,4 @@ General
 -------
 - If you prefer, choose any data set and carry out your own analysis
 - Use pandas, or use sqlpd or use both. The point is for you to work with data analysis
+- For example, 'sort' 'rank' or 'filter' the NBA data
