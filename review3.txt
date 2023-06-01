@@ -1,0 +1,44 @@
+Review Exercise 3
+=================
+Choose which of these exercises you would like to work on:
+- Databases
+- sqlpd
+- text read/write
+- self-directed exercise
+On your own or in groups, work through your chosen exercise, interpreting in whatever way you like
+There will be time to complete one of the exercies, but if you like, try others too
+There will be an oportunity to share solutions at the end
+
+Databases
+---------
+Return to the 'students and assistants' notebook.
+- make two more tables in the existing database, one for 'students' and one for 'assistants'
+  for both tables, use 'Email' as the primary key
+- populate these new database tables from the DataFrames
+  You will need to loop over the members of the DataFrame and slice the data values
+- use SQL to read from both tables, but only where the email values match
+
+Make a new Python Notebook, import pandas and numpy, then read the NBA.csv into a dataFrame
+- make a table in the existing database for 'nba' but only use a few columns
+  e.g. use Name, Team, College, Age (Name would make a good primary key)
+- populate this new table by iterating over the NBA dataFrame
+
+In either case, provide a mechanism to update a member of the database
+- e.g. update the Age of NBA players
+
+Using SQLPD
+-----------
+Return the the 'flights' exercise from yesterday and use sqlpd to analyse the data
+- for each analysis we did in Pandas, do the same analysis using sqlpd
+- e.g. find the number of airlines, number of unique 'TAIL_NUMBER', maximum delay etc.
+
+Reading and Writing Text
+------------------------
+In a new Notebook, read in one of the csv or Excel file into a DataFrame
+Then choose one or two members of the DataFrame and write them out to a text file (append)
+Also provide a mechanism to read back from the text file
+
+General
+-------
+- If you prefer, choose any data set and carry out your own analysis
+- Use pandas, or use sqlpd or use both. The point is for you to work with data analysis
