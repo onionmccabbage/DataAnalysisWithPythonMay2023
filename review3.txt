@@ -37,7 +37,7 @@ Reading and Writing Text
 In a new Notebook, read in one of the csv or Excel file into a DataFrame
 Then choose one or two members of the DataFrame and write them out to a text file (append)
 Also provide a mechanism to read back from the text file
-- e.g. read the flights_jan.csv the nwrite some date, airline and tail num to a text file
+- e.g. read the flights_jan.csv then write some date, airline and tail num to a text file
 
 General
 -------
