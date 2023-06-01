@@ -50,10 +50,12 @@ Wednesday
 - provide sample notebooks with more details
 
 Thursday
-- brief review so far
-- repairs to repository
-- see the fixed 'figure' example
+> brief review so far
+> repairs to repository
+> see the fixed 'figure' example
 - Data strategies
+  - using sql with data Frames
+  - using text files
 - time-series data and stats
 - Statistical analysis
 > grouping and aggregation
