@@ -56,7 +56,8 @@ Thursday
 - Data strategies
 - time-series data and stats
 - Statistical analysis
-- grouping and aggregation
+> grouping and aggregation
 - Database integration (also text files)
+- Python code structures
 - review exercise
 - end of course fedback
