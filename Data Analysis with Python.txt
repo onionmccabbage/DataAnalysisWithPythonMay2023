@@ -20,7 +20,7 @@ Tuesday
   - easist to just install Anaconda 
   - or install Python and the separate tools (Jupyter, Numpy, Pandas etc.)
 > Python and related tools for Data Analysis
-- Python introduction
+> Python introduction
 > Numpy: arrays and slicing
 > Anaconda - adding libraries
 > Pandas: series and dataframe
@@ -47,19 +47,20 @@ Wednesday
 > numercial data and stats: descriptive statistics
 > review exercise
 > other ways to run Python: modules, jupyter notebook and IDE
-- provide sample notebooks with more details
+> provide sample notebooks with more details
 
 Thursday
 > brief review so far
 > repairs to repository
 > see the fixed 'figure' example
-- Data strategies
-  - using sql with data Frames
-  - using text files
-- time-series data and stats
-- Statistical analysis
+> Data strategies
+  > using sql with data Frames
+  > using text files
+> time-series data and stats
+> Statistical analysis
 > grouping and aggregation
-- Database integration (also text files)
-- Python code structures
-- review exercise
-- end of course fedback
+> Database integration (also text files)
+> Python code structures
+> review exercise
+- end of course fedback (please fill it in now)
+     https://frameworktraining.typeform.com/to/QpgoGkWr
