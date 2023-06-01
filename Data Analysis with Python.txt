@@ -51,6 +51,7 @@ Wednesday
 
 Thursday
 - brief review so far
+- repairs to repository
 - see the fixed 'figure' example
 - Data strategies
 - time-series data and stats
